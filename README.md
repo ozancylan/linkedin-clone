@@ -4,7 +4,11 @@
 
 Eğitim kapsamında Bootstrap ile LinkedIn klonu geliştirdim.
 
-VİDEO'
+[](https://user-images.githubusercontent.com/101877656/195268435-2a28da8e-a6b3-44e6-9a6a-2bfddef57488.mp4)
+
+
+
+
 
 
 
